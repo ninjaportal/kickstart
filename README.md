@@ -1,3 +1,7 @@
+<a target="_blank" href="https://ninjaportal.net" target="_blank">
+ <img src="https://i.ibb.co/Rpmq93Lr/Copy-of-Ninja-Tech-logo-template-1.png" alt="Ninja Portal Logo" height="180px" />   
+</a>
+
 # NinjaPortal Kickstart
 
 Starter Laravel application template prepared for NinjaPortal.
