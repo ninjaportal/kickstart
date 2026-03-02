@@ -180,18 +180,3 @@ composer require ninjaportal/portal-api
 ```
 
 Then publish/configure its settings and generate API docs (Scribe) based on your project needs.
-
-## Publishing Notes
-
-- The Composer package type is `project`, so this repository is ready to be published on Packagist for `composer create-project`.
-- The repository includes a GitHub Actions workflow for validation and Laravel tests.
-- Keep `composer.lock` committed so template installs stay reproducible.
-
-## Notes
-
-- `ninjaportal/portal` depends on `lordjoo/laraapigee`; both are listed explicitly in this template for clarity.
-- If you maintain this template repository, regenerate `composer.lock` after updating package versions:
-
-```bash
-composer update
-```
